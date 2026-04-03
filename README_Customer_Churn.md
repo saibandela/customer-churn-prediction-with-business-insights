@@ -659,8 +659,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Vinay Sai**
 
-- GitHub: [@vinaysai7](https://github.com/vinaysai7)
-- Project Link: [https://github.com/vinaysai7/Customer-Churn-Analysis](https://github.com/vinaysai7/Customer-Churn-Analysis)
+- GitHub: [@saibandela](https://github.com/saibandela)
+- Project Link: [https://github.com/saibandela/Customer-Churn-Analysis-Prediction](https://github.com/saibandela/Customer-Churn-Analysis-Prediction)
 
 ---
 
