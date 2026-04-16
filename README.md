@@ -1,4 +1,4 @@
-# Customer Churn Prediction & Retention Strategy
+# 📊 Customer Churn Prediction & Retention Strategy
 
 A machine learning solution that predicts customer churn in the telecommunications industry and identifies actionable retention strategies. This project combines predictive modeling with business analysis to reduce churn rates and improve customer lifetime value.
 
@@ -124,11 +124,11 @@ This project highlights expertise in machine learning, statistical analysis, dat
 
 ## 👤 Author
 
-**Vinay Sai**  
+**Sai Bandela**  
 Data Scientist | Machine Learning | Predictive Analytics
 
-- [GitHub](https://github.com/vinaysai7)
-- [LinkedIn](https://www.linkedin.com/in/bandela-vinay-babu)
+- [GitHub](https://github.com/saibandela)
+- [LinkedIn](https://www.linkedin.com/in/saibabu-bandela)
 
 ---
 
